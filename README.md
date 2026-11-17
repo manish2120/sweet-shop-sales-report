@@ -5,8 +5,8 @@ An Excel-based MIS project focused on cleaning, validating and analysing sweet s
 
 ## Preview
 
-[▶ Project Demo](../sweet-shop-sales.mp4)
-[Dashboard](../dashboard.jpeg)
+![Project Demo](./media/sweet-shop-sales.mp4)
+![Dashboard](./media/dashboard.jpeg)
 
 ## Tools Used
 - Microsoft Excel 2021
