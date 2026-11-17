@@ -7,7 +7,7 @@ An Excel-based MIS project focused on cleaning, validating and analysing sweet s
 <img src="./media/dashboard.jpeg" alt="Dashboard" width="400" />
 
 <a href="https://drive.google.com/file/d/1TWEgzEkd-6Qaoibbkiee7zKGxmHADkaZ/view?usp=sharing">
-  <img src="./media/dashboard.jpeg" alt="Video Preview" width="400">
+  Click to view project ↗
 </a>
 
 ## Tools Used
